@@ -57,6 +57,15 @@ button {
   justify-content: space-between;
 }
 
+.mob-nav-open-btn {
+  background-color: transparent;
+  border: none;
+}
+
+.logo-icon {
+  fill: #2f2f37;
+}
+
 /*-------MOB-NAV--------*/
 
 .mob-nav-container {
