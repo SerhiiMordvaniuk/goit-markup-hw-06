@@ -58,8 +58,8 @@ button {
 }
 
 .mob-nav-open-btn {
-  background-color: transparent;
   border: none;
+  background-color: transparent;
 }
 
 .logo-icon {
@@ -313,7 +313,6 @@ button {
 /*------HERO----------*/
 
 .hero {
-  /* background-color: #2e2f42; */
   padding-bottom: 188px;
   padding-top: 188px;
   margin: 0 auto;
